@@ -1,0 +1,46 @@
+body{
+    /*Asi se ingresa un comentario en css y se cierra con */
+    /*background-color: "Color" sirve para dar un color de forndo a la pagina*/
+    background-color: rgb(141, 128, 53);
+}
+h1{
+    /*color: "color" sirve para dar un color al texto que se requiera*/
+    color:rgb(73, 65, 55);
+
+    /*text-align: "ubicacion de texto" sirve para dar una posicion en la pagina al texto*/
+    text-align:center;
+
+    /*font-family: "tipo de letra" sirve para dar un estilo de letra al texto deseado*/
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    /*font-size:"tamaño de texto" sirve para dar un tamaño a la letra del texto*/
+    font-size: 50px;
+}
+h2{
+    color:rgb(184, 168, 149);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+p{
+    color:rgb(63, 62, 21);
+    text-align: justify;
+    text-align: center;
+    font-family: "Georgia", Times New Roman, Times, serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+.p1{
+    color:rgb(44, 16, 16);
+    text-align: justify;
+    text-align: left;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight:700
+}
+h3{
+    color:rgb(109, 41, 41);
+    text-align: right;
+    font-family: Arial, Helvetica, "sans-serif";
+    font-size: 20px;
+    font-weight: 700
+}
